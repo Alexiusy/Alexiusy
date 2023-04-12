@@ -49,7 +49,7 @@ This is [**Alexiusy**](https://alexiusy.github.io)!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexiusy&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true&foo=bar" />
 </a>
 <a href="https://github.com/Alexiusy/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiusy&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiusy&theme=radical&hide_border=true&hide=javascript,html,css" />
 </a>
 
 <picture>
