@@ -2,7 +2,7 @@
 This is [**Alexiusy**](https://alexiusy.github.io)!
 
 - 💻 I’m a passionate self-taught iOS&Web developer and a freelance software engineer from China.
-- 🌱 I’m currently learning multi-platform application development such as dart&flutter.
+- 🌱 I’m currently learning dart, flutter and rust.
 - 🤖 In addition to coding, I use CI/CD tech to make work more efficient.
 - 👯 I’m looking to collaborate on iOS or mini-program project.
 - 💬 Ask me about anything, I’m happy to help.
@@ -40,7 +40,7 @@ This is [**Alexiusy**](https://alexiusy.github.io)!
 [![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=Alexiusy&url=https://alexiusy.github.io)](https://alexiusy.github.io)
 [![](https://img.shields.io/badge/-@Alexiusy-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/4316220/)
 [![](https://img.shields.io/badge/-@Alexiusy-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Alexiusy)
-[![](https://img.shields.io/badge/-@Aoloa-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.cn/u/Aoloa/)
+[![](https://img.shields.io/badge/-@Aoloa-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/Aoloa/)
 
 
 
@@ -60,7 +60,7 @@ This is [**Alexiusy**](https://alexiusy.github.io)!
 
 ## LeetCode Stats
 
-<a href="https://leetcode.cn/u/Aoloa/">
+<a href="https://leetcode.com/Aoloa/">
   <img src="https://leetcard.jacoblin.cool/Aoloa?ext=heatmap&theme=nord">
 </a>
 
